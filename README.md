@@ -68,7 +68,7 @@ Supported on Xampp v5.6.36
 👤 **Alok Raj**
 
 * Website: https://opendevs.in
-* Twitter: [@AlokR1](https://twitter.com/AlokR1)
+* Twitter: [@alok722](https://twitter.com/AlokR1)
 * Github: [@alok722](https://github.com/alok722)
 * LinkedIn: [@alok722](https://linkedin.com/in/alok722)
 
