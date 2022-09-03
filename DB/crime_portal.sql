@@ -63,7 +63,7 @@ CREATE TABLE `head` (
 --
 
 INSERT INTO `head` (`h_id`, `h_pass`) VALUES
-('head@kp', 'head');
+('admin', 'admin');
 
 -- --------------------------------------------------------
 

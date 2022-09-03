@@ -5,7 +5,7 @@
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
   <a href="https://twitter.com/alok722" target="_blank">
-    <img alt="Twitter: AlokR1" src="https://img.shields.io/twitter/follow/alok722.svg?style=social" />
+    <img alt="Twitter: alokr722" src="https://img.shields.io/twitter/follow/alok722.svg?style=social" />
   </a>
   <a href="https://github.com/alok722" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/alok722?style=social">                                       
@@ -25,24 +25,29 @@
 ### Complainant Module
 
 -	Complainant can file an FIR online and can see the regular update of the filed case. 
--	He/She can file multiple FIR .
+-	He/She can file multiple FIR.
 
 ### HQ Module
 
 -	HQ can monitor every case.
--	HQ can add or delete the police station.
--	HQ will provide login credential to Police In-charge. 
+-	HQ can add or delete the police station (By Police Station means, every area would have single Police Station and it's in-charge).
+-	HQ will provide login credential to Police In-charge.
+- Login credential and path for HQ/Admin:
+- Path: Official Login -> HQ Login
+- Credential: Username: `admin`, Password: `admin`
 
 ### In-charge Module
 -	In-charge can see the case allocated to his location.
 -	He/She can add police officers for his/her location. 
 -	In-charge will assign the case to each police.
 -	In-charge will provide login credential to Police.
+- Login credential for every Incharge would be provided by HQ.
 
 ### Police Module
 -	Police can only see the details of that case which has been assigned by the In-charge.
 -	Police can update the status of each case.
 -	Police can close the case and file the charge-sheet.
+- Login Credential for every Police would be provided by respective Incharge.
 
 ## [Database Schema](./DB)
 
@@ -63,7 +68,7 @@ Supported on Xampp v5.6.36
 👤 **Alok Raj**
 
 * Website: https://opendevs.in
-* Twitter: [@alok722](https://twitter.com/AlokR1)
+* Twitter: [@alok722](https://twitter.com/alok722)
 * Github: [@alok722](https://github.com/alok722)
 * LinkedIn: [@alok722](https://linkedin.com/in/alok722)
 
